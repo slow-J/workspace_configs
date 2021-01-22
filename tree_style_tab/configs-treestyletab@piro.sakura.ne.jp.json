@@ -1,0 +1,61 @@
+{
+  "autoAttachOnDuplicated": -1,
+  "autoAttachOnNewTabButtonMiddleClick": -1,
+  "autoAttachOnNewTabCommand": 0,
+  "autoAttachSameSiteOrphan": -1,
+  "autoCollapseExpandSubtreeOnAttach": false,
+  "autoCollapseExpandSubtreeOnSelect": false,
+  "chunkedUserStyleRules0": "dGFiLWl0ZW17CmZvbnQtc2l6ZTogMTJweDsKfQp0YWItaXRlbS5hY3RpdmUgewogIGhlaWdodDogNTVweCAhaW1wb3J0YW50OwogIGJhY2tncm91bmQtY29sb3I6ICMyMDYwMjA7CiAgZm9udC1zaXplOiAxNHB4Owpmb250LXdlaWdodDogYm9sZDsKICAgYm9yZGVyOiBzb2xpZCA2cHggIzk5NjYzMzsgCiAgfQovKiBTaG93IHRpdGxlIG9mIHVucmVhZCB0YWJzIHdpdGggcmVkIGFuZCBpdGFsaWMgZm9udCAqLwoKdGFiLWl0ZW0udW5yZWFkIC5sYWJlbC1jb250ZW50IHsKICBjb2xvcjogYmxhY2sgIWltcG9ydGFudDsKZm9udC13ZWlnaHQ6IGJvbGQ7CiAgZm9udC1zdHlsZTogaXRhbGljICFpbXBvcnRhbnQ7CiAgYmFja2dyb3VuZC1jb2xvcjogI0JGQkZCRjsKICBmb250LXNpemU6IDE0cHg7IAoKfQoKCi8qIEFkZCBwcml2YXRlIGJyb3dzaW5nIGluZGljYXRvciBwZXIgdGFiICovCgp0YWItaXRlbS5wcml2YXRlLWJyb3dzaW5nIHRhYi1sYWJlbDpiZWZvcmUgewogIGNvbnRlbnQ6ICLwn5W2IjsKfQ==",
+  "closeParentBehavior": 6,
+  "configsVersion": 20,
+  "guessNewOrphanTabAsOpenedByNewTabCommand": false,
+  "insertNewChildAt": -1,
+  "lastConfirmedToCloseTabs": 1594900247601,
+  "lastDraggedTabs": {
+    "tabIds": [
+      189
+    ],
+    "urlsDigest": "3d037c3305e29e110c3fc387026651e8c8956cc6"
+  },
+  "longPressOnNewTabButton": "",
+  "notifiedFeaturesVersion": 7,
+  "optionsExpandedSections": [
+    "section-advanced",
+    "section-addons",
+    "section-drag",
+    "section-treeBehavior",
+    "section-newTab",
+    "section-contextMenu",
+    "section-debug",
+    "section-appearance"
+  ],
+  "showTabDragBehaviorNotification": false,
+  "simulateSelectOwnerOnClose": false,
+  "style": "plain",
+  "successorTabControlLevel": 0,
+  "syncDeviceInfo": {
+    "id": "device-1604914154942-51441",
+    "name": "Firefox on macOS",
+    "icon": "device-desktop",
+    "timestamp": 1611345488444
+  },
+  "syncDevices": {
+    "device-1604914154942-51441": {
+      "id": "device-1604914154942-51441",
+      "name": "Firefox on macOS",
+      "icon": "device-desktop",
+      "timestamp": 1611345488444
+    }
+  },
+  "syncDevicesLocalCache": {
+    "device-1604914154942-51441": {
+      "id": "device-1604914154942-51441",
+      "name": "Firefox on macOS",
+      "icon": "device-desktop",
+      "timestamp": 1611345488444
+    }
+  },
+  "tabDragBehavior": 12,
+  "tabDragBehaviorShift": 12,
+  "userStyleRules": ""
+}
