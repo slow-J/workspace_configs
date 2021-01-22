@@ -1,0 +1,27 @@
+tab-item{
+font-size: 12px;
+}
+tab-item.active {
+  height: 55px !important;
+  background-color: #206020;
+  font-size: 14px;
+font-weight: bold;
+   border: solid 6px #996633; 
+  }
+/* Show title of unread tabs with red and italic font */
+
+tab-item.unread .label-content {
+  color: black !important;
+font-weight: bold;
+  font-style: italic !important;
+  background-color: #BFBFBF;
+  font-size: 14px; 
+
+}
+
+
+/* Add private browsing indicator per tab */
+
+tab-item.private-browsing tab-label:before {
+  content: "🕶";
+}
